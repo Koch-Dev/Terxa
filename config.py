@@ -7,7 +7,7 @@ BOT_TOKEN = "6826558225:AAEctOA7vCX-skVaUg6NegxnMhkZUa0pUMo"  # bot token
 ## REDIS
 HOST = "redis-10766.c322.us-east-1-2.ec2.cloud.redislabs.com"  # redis host uri
 PORT = 10766  # redis port
-PASSWORD = "SpqESSKT6yH2k6USgDejhWfiOB72ItBy""  # redis password
+PASSWORD = "SpqESSKT6yH2k6USgDejhWfiOB72ItBy" # redis password
 
 PRIVATE_CHAT_ID = -1001620341107 # CHAT WHERE YOU WANT TO STORE VIDEOS
 COOKIE = "csrfToken=50q0ygrmR5FOKfuRIFYZ9vq5; browserid=PPzKdhGQhoPLNVEAfXhnDJlpAppWmP6jozu6qETzzSRRb8pP9OnRl5gSYSfHJHizg7ybqj3w6wnDyqdL; lang=en; TSID=d7RoPo7LXbAeaq9BsaTHHj8lr1LIG5vG; __bid_n=18e9e429abdbbab4824207; ab_ymg_result={"data":"dc95133bfd30a00318b9df3fdea3f03cbae0a86a22382209270fc4af470c26dc53ab60d96a84c862199071cb94c2f846a8b9265144e1de4799a151768ec75f3934835fe127fb965d3a4c9d04caafcf549a631e9590c68cbb9a754423ce3d35b5fceb9f231cd7e280a33631bc7091b62ee60bcdef4624b436ef39662d0f53092c","key_id":"66","sign":"d714a324"}; _ga=GA1.1.638781333.1712052155; __stripe_mid=a52f4404-f821-4e7c-b4c3-118efe514a6cd71acd; __stripe_sid=66a986b4-74c3-466a-93fe-17d1dc0ca92c92845b; ndus=YdnDRK7teHuiKmjb_lYLy0SOrif_LOrA6qNsbZaN; ab_sr=1.0.1_ZjhkNTYwZDc3OTQwMzRhZTM2YjZjNjkzNzZmNDRkOWZjMWE4NTllNmU3MTc1NjM5ODEzZWJlMjg0N2I5Y2Y2NWJkNDllOWU2NjBlYmFmOWI3OGU2MDEyNTViY2Q2MmFhYTFlYjE5NTE5N2JkYjgyNjg1OWFlNGFmMTJhODVjZmJiOWQ3YThhNDc1NTIxNjVjYWE5NDc3OWY0YzgxYzdkNQ==; _ga_06ZNKL8C2E=GS1.1.1712052154.1.1.1712052272.20.0.0; ndut_fmt=81786FEB7451C80C1E59D542AE1726F021CBC33192E55BA69469750B9A73183C"  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
